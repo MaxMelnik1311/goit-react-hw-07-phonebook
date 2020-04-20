@@ -16,7 +16,7 @@
     "shortid": "^2.2.15",
     "uuid": "^7.0.3"
   },
-  "homepage": "https://MaxMelnik1311.github.io/goit-react-hw-06-phonebook",
+  "homepage": "https://MaxMelnik1311.github.io/goit-react-hw-07-phonebook",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
