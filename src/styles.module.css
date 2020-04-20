@@ -1,0 +1,25 @@
+.layoutDay,
+.layoutNight {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.layoutDay {
+  background-color: #fff;
+}
+
+.layoutNight {
+  background-color: grey;
+}
+
+.night {
+  color: white;
+}
+
+.loading {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
